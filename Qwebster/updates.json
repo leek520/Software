@@ -3,7 +3,7 @@
     "windows": {
       "open-url": "",
       "latest-version": "1.0",
-      "download-url": "https://github.com/leek520/Software/tree/master/Qwebster/YesItWorks1.jpg",
+      "download-url": "https://github.com/leek520/Software/blob/master/Qwebster/YesItWorks1.jpg",
       "changelog": "This is an example changelog for Windows. Go on...",
       "mandatory": true
     },
