@@ -5,7 +5,7 @@
       "latest-version": "1.0",
       "download-url": "https://raw.githubusercontent.com/leek520/Software/master/Qwebster/YesItWorks1.jpg",
       "changelog": "This is an example changelog for Windows. Go on...",
-      "mandatory": true
+      "mandatory": "true"
     }
   }
 }
