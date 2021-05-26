@@ -3,10 +3,10 @@
 [Update]
 Name = Qwebster
 ProductVersion = 2.0.3.0
-URL = http://localhost:80/Qwebster 2.0.3.exe
-Size = 43326908
-SHA256 = E78381E492E7C3DA63B28628E760BB7AF71A0445D51831785A5EE7CC9FFE31C9
-MD5 = 8101716c9192be481167765dbb9798c3
+URL = https://raw.githubusercontent.com/leek520/Software/master/Qwebster/Qwebster 2.0.3.exe
+Size = 43326844
+SHA256 = AD5E7221375A929CDFA0421CD2B6A96861ABD51DEAB3097002421270B5BBBD53
+MD5 = 2a090f6a134c467eacdadcf8f1630281
 ServerFileName = Qwebster 2.0.3.exe
 Flags = NoCache
 RegistryKey = HKUD\Software\深圳市普乐特电子有限公司\Qwebster\Version
